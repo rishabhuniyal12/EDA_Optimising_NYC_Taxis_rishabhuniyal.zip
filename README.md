@@ -13,7 +13,6 @@ to insert  NYC Taxi Zones in Google Colab-
     
     print(" Shapefile extracted successfully!")
   
-  and Load and Visualize the Taxi Zones
     !pip install geopandas matplotlib  # Install required libraries (if not installed)
     import geopandas as gpd
     import matplotlib.pyplot as plt
